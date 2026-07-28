@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-pbor20.cingbet138.online/sitemap.xml
